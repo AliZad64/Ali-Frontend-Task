@@ -1,0 +1,12 @@
+.mainDiv {
+  margin: auto;
+  margin-top: 200px;
+  width: 50%;
+  background-color: #adefd1ff;
+  border: 3px solid #4876e7;
+  border-radius: 25px;
+}
+.coloring {
+  text-align: center;
+  color: #4876e7;
+}
